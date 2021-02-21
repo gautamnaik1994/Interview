@@ -11,3 +11,5 @@
 - ### Different ways to center element
 - ### Attribute Selectors
 - ### General Sibling Selector
+- ### `background-position` property
+- ### What is meant by a universal selector?

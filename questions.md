@@ -1,0 +1,13 @@
+- ### What is the difference between `{visibility: hidden}` and `{display: none}` ?
+- ### What is the difference between the usage of an ID and a Class ?
+- ### Explain the CSS Box Model and its different elements ?
+- ### What are pseudo-elements in CSS ?
+- ### What are the different units used in CSS ?
+- ### CSS Variables
+- ### SASS Mixin
+- ### `translate()` instead of `absolute` positioning
+- ### mobile-first strategy
+- ### box-sizing
+- ### Different ways to center element
+- ### Attribute Selectors
+- ### General Sibling Selector
